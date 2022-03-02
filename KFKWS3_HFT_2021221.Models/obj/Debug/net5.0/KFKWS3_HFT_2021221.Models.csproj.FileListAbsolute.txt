@@ -1,0 +1,12 @@
+C:\Users\Jonatan\source\repos\KFKWS3_HFT_2021221-master\KFKWS3_HFT_2021221.Models\bin\Debug\net5.0\KFKWS3_HFT_2021221.Models.deps.json
+C:\Users\Jonatan\source\repos\KFKWS3_HFT_2021221-master\KFKWS3_HFT_2021221.Models\bin\Debug\net5.0\KFKWS3_HFT_2021221.Models.dll
+C:\Users\Jonatan\source\repos\KFKWS3_HFT_2021221-master\KFKWS3_HFT_2021221.Models\bin\Debug\net5.0\ref\KFKWS3_HFT_2021221.Models.dll
+C:\Users\Jonatan\source\repos\KFKWS3_HFT_2021221-master\KFKWS3_HFT_2021221.Models\bin\Debug\net5.0\KFKWS3_HFT_2021221.Models.pdb
+C:\Users\Jonatan\source\repos\KFKWS3_HFT_2021221-master\KFKWS3_HFT_2021221.Models\obj\Debug\net5.0\KFKWS3_HFT_2021221.Models.csproj.AssemblyReference.cache
+C:\Users\Jonatan\source\repos\KFKWS3_HFT_2021221-master\KFKWS3_HFT_2021221.Models\obj\Debug\net5.0\KFKWS3_HFT_2021221.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatan\source\repos\KFKWS3_HFT_2021221-master\KFKWS3_HFT_2021221.Models\obj\Debug\net5.0\KFKWS3_HFT_2021221.Models.AssemblyInfoInputs.cache
+C:\Users\Jonatan\source\repos\KFKWS3_HFT_2021221-master\KFKWS3_HFT_2021221.Models\obj\Debug\net5.0\KFKWS3_HFT_2021221.Models.AssemblyInfo.cs
+C:\Users\Jonatan\source\repos\KFKWS3_HFT_2021221-master\KFKWS3_HFT_2021221.Models\obj\Debug\net5.0\KFKWS3_HFT_2021221.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan\source\repos\KFKWS3_HFT_2021221-master\KFKWS3_HFT_2021221.Models\obj\Debug\net5.0\KFKWS3_HFT_2021221.Models.dll
+C:\Users\Jonatan\source\repos\KFKWS3_HFT_2021221-master\KFKWS3_HFT_2021221.Models\obj\Debug\net5.0\ref\KFKWS3_HFT_2021221.Models.dll
+C:\Users\Jonatan\source\repos\KFKWS3_HFT_2021221-master\KFKWS3_HFT_2021221.Models\obj\Debug\net5.0\KFKWS3_HFT_2021221.Models.pdb
